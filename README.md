@@ -4,7 +4,7 @@ Needed a easy way to track hardening tasks that were generated from the [Ubuntu 
 
 Introducing stig_xml_to_csv.py.  It parses the STIG XML for Groups and Rules, and puts them into a CSV file. 
 
-   Group Title,Rule Version,Rule Title,Rule Description,Rule Fix Text,Rule Check
+    Group Title,Rule Version,Rule Title,Rule Description,Rule Fix Text,Rule Check
 
 ## Usage
 
